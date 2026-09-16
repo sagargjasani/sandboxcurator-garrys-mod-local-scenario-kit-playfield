@@ -1,0 +1,40 @@
+{
+  "id": 37,
+  "category": "game-offline",
+  "slug": "garrys-mod-local-scenario-kit",
+  "target": "Garry's Mod",
+  "appid": "4000",
+  "summaryRu": "Каталог локальных сценариев песочницы и проверок совместимости дополнений.",
+  "features": [
+    "Local scenario manifests",
+    "Addon conflict worksheets",
+    "Map test checklists"
+  ],
+  "title": "SandboxCurator — Garry's Mod — Playfield",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "SandboxCurator",
+  "repositoryName": "sandboxcurator-garrys-mod-local-scenario-kit-playfield",
+  "githubTopics": [
+    "garrys-mod",
+    "local-scenarios",
+    "addon-compatibility",
+    "map-testing",
+    "game-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "playfield"
+}
